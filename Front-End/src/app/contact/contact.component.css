@@ -1,0 +1,234 @@
+.img1{
+    width: 100%;
+}
+
+
+
+
+.Footer__Content .Heading{
+    letter-spacing: .04em !important;
+  }
+  .footer-top {
+    border-top: 1px solid #000;
+    background: #f2f2f2;
+    padding: 10px 0;
+    margin-top: 14%;
+    
+  }
+  
+  .footer-top-container .store{
+    padding: 0px 25px 0 25px;
+    vertical-align: middle;
+  
+  }
+  .icon-container{
+    align-items: center;
+    background: #ffffff;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 55px;
+    margin: 0 auto;
+    border: 2px solid #991f53;
+  }
+  
+  
+  
+  .hr-line{
+    padding: 25px 0;
+  }
+  .locater-icon-text{
+    border-right: 1px solid #000;
+  }
+  .TouchIcons{
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    flex-wrap: nowrap;
+    justify-content: center;
+  }
+  .footer-right{
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+  .cstm-top-footer {
+  
+    Width: 60%
+  }
+  .btn-register{
+    width: 30%;
+    background: #000;
+    color: #fff;
+    padding: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    text-align: center;
+    margin: 0 auto;
+    display:block;
+  
+  }
+  .locatorInnerText{
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    justify-content: center;
+    align-items: center;
+  }
+  .content-asset{
+    width: 60%;
+  }
+  .locatorIcons{
+    width: 40%;
+  }
+  .TouchIcons .icon-text p{
+    margin-top:0px!important;
+    text-align:center;
+  }
+  .FooterHeading{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #45095b;
+  }
+  .icon-container svg{
+    width: 20px;
+    fill: #45095b;
+    height: 20px;
+  }
+  
+  .footer-top-container{
+    width:100%;
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+  }
+  .store-locater-call-icons{
+    width: 100%;
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+  }
+  .cstm-richtext-footer {
+    width: 50%;
+    border-right: 1px solid #000;
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    padding: 10px 20px;
+  }
+  .store-locater{
+    width: 100%;
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+  }
+  .footer-contact-methods{
+    width: 50%;
+  }
+  .locater-icon-text {
+    width: 50%;
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  .footerInnerTop{
+    width: 100%;
+    display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    justify-content: center;
+    align-items: center; 
+  }
+  .margin-icon-2{
+    margin: 0 20px;
+  }
+  @media screen and (max-width: 992px) {
+    .FooterHeading {
+      font-size: 14px;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .cstm-richtext-footer{
+      padding: 10px 0;
+    }
+  }
+  @media screen and (max-width: 641px){
+    .locater-icon-text {
+      width: 40% !important;
+    }
+    .footer-contact-methods{
+    width: 60% !important;
+     }
+    .footerInnerTop {
+      width: 100%;
+      display:block;
+    }
+    .footer-top-container {
+      width: 100%;
+      display:block;
+    }
+    .cstm-richtext-footer {
+      width: 100%;
+      border-bottom: 1px solid #000;
+      border-right: unset;
+      display:block;
+      padding:0 0 15px 0;
+    }
+    .cstm-top-footer {
+      Width: 100%;
+    }
+    .btn-register {
+      width: 100%;
+    }
+    .footer-top-container .store {
+      padding: 0px;
+  
+    }
+    .FooterHeading {
+      font-size: 13px;
+    }
+    .icon-container {
+      width: 40px;
+      height: 40px;
+      line-height: 50px;
+      margin: 0 auto;
+    }
+    .TouchIcons{
+      width:100%
+    }
+    .content-asset{
+      width:55%;
+    }
+    .locatorIcons{
+      width: 45%;
+    }
+    .footer-right{
+      display:block;
+      width: 100%;
+    }
+    .TouchText{
+      width: 100%;
+      text-align: center;
+      margin-bottom: 5px;
+    }
+  
+    .margin-icon-2 {
+      margin: 0 20px !important;
+    }
+  } 
+  
+   
+  
